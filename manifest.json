@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Method Draw Vector Editor",
+  "description": "8 Ball Billiards: Classic",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Method Draw Vector Editor",
+  "name": "8 Ball Billiards: Classic",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Method Draw Vector Editor",
+  "short_name": "8 Ball Billiards: Classic",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Method Draw Vector Editor",
+      "name": "8 Ball Billiards: Classic",
       "url": "",
       "description": ""
     }
